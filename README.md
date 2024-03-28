@@ -3,7 +3,7 @@
  <img src="website_image.png" alt="Example Image" title="An example image" width="700" height="400" />
 
 ### Motivation:
-#### I have developed a program that automatically scrapes an earthquake monitoring website every 5 minutes. This allows me to stay updated on earthquake occurrences.
+**I have developed a program that automatically scrapes an earthquake monitoring website every 5 minutes. This allows me to stay updated on earthquake occurrences.**
 
 ### Selenium:
 
